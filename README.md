@@ -1,7 +1,7 @@
 # Weather Boy with React
 [![](https://api.netlify.com/api/v1/badges/d82799ad-9310-4eb4-b1ac-9d5dbf75c1d5/deploy-status)](https://app.netlify.com/sites/kodluyoruz-kemal-tarhan-weather-boy/deploys)
 
-![](./src/static/appscreen.png)
+![](/static/appscreen.png)
 
 Weather app built using;
 - React Context
