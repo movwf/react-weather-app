@@ -1,0 +1,1112 @@
+{
+  "documentation": "https://opencagedata.com/api",
+  "licenses": [
+    {
+      "name": "see attribution guide",
+      "url": "https://opencagedata.com/credits"
+    }
+  ],
+  "rate": {
+    "limit": 2500,
+    "remaining": 2497,
+    "reset": 1610496000
+  },
+  "results": [
+    {
+      "annotations": {
+        "DMS": {
+          "lat": "40\u00b0 59' 29.65776'' N",
+          "lng": "29\u00b0 1' 37.26228'' E"
+        },
+        "MGRS": "35TPF7050239800",
+        "Maidenhead": "KN40mx37fx",
+        "Mercator": {
+          "x": 3231272.785,
+          "y": 4983064.166
+        },
+        "OSM": {
+          "edit_url": "https://www.openstreetmap.org/edit?relation=1276548#map=17/40.99157/29.02702",
+          "note_url": "https://www.openstreetmap.org/note/new#map=17/40.99157/29.02702&layers=N",
+          "url": "https://www.openstreetmap.org/?mlat=40.99157&mlon=29.02702#map=17/40.99157/29.02702"
+        },
+        "UN_M49": {
+          "regions": {
+            "ASIA": "142",
+            "TR": "792",
+            "WESTERN_ASIA": "145",
+            "WORLD": "001"
+          },
+          "statistical_groupings": [
+            "LEDC"
+          ]
+        },
+        "callingcode": 90,
+        "currency": {
+          "alternate_symbols": [
+            "TL"
+          ],
+          "decimal_mark": ",",
+          "html_entity": "&#8378;",
+          "iso_code": "TRY",
+          "iso_numeric": "949",
+          "name": "Turkish Lira",
+          "smallest_denomination": 1,
+          "subunit": "kuru\u015f",
+          "subunit_to_unit": 100,
+          "symbol": "\u20ba",
+          "symbol_first": 1,
+          "thousands_separator": "."
+        },
+        "flag": "\ud83c\uddf9\ud83c\uddf7",
+        "geohash": "sxk9hw2c4wbc5nu6807t",
+        "qibla": 151.71,
+        "roadinfo": {
+          "drive_on": "right",
+          "speed_in": "km/h"
+        },
+        "sun": {
+          "rise": {
+            "apparent": 1610429280,
+            "astronomical": 1610423460,
+            "civil": 1610427480,
+            "nautical": 1610425440
+          },
+          "set": {
+            "apparent": 1610463360,
+            "astronomical": 1610469240,
+            "civil": 1610465220,
+            "nautical": 1610467260
+          }
+        },
+        "timezone": {
+          "name": "Europe/Istanbul",
+          "now_in_dst": 0,
+          "offset_sec": 10800,
+          "offset_string": "+0300",
+          "short_name": "+03"
+        },
+        "what3words": {
+          "words": "lend.trousers.junction"
+        },
+        "wikidata": "Q932886"
+      },
+      "bounds": {
+        "northeast": {
+          "lat": 41.0123133,
+          "lng": 29.1113172
+        },
+        "southwest": {
+          "lat": 40.9499656,
+          "lng": 29.0148423
+        }
+      },
+      "components": {
+        "ISO_3166-1_alpha-2": "TR",
+        "ISO_3166-1_alpha-3": "TUR",
+        "_category": "place",
+        "_type": "city",
+        "continent": "Asia",
+        "country": "Turkey",
+        "country_code": "tr",
+        "province": "Istanbul",
+        "region": "Marmara Region",
+        "state": "Istanbul",
+        "town": "Kad\u0131k\u00f6y"
+      },
+      "confidence": 7,
+      "formatted": "Kad\u0131k\u00f6y, Istanbul, Turkey",
+      "geometry": {
+        "lat": 40.9915716,
+        "lng": 29.0270173
+      }
+    },
+    {
+      "annotations": {
+        "DMS": {
+          "lat": "37\u00b0 32' 51.49320'' N",
+          "lng": "44\u00b0 8' 12.88284'' E"
+        },
+        "MGRS": "38SMG2375955976",
+        "Maidenhead": "LM27bn61kk",
+        "Mercator": {
+          "x": 4913298.558,
+          "y": 4489675.271
+        },
+        "OSM": {
+          "edit_url": "https://www.openstreetmap.org/edit?node=836247253#map=17/37.54764/44.13691",
+          "note_url": "https://www.openstreetmap.org/note/new#map=17/37.54764/44.13691&layers=N",
+          "url": "https://www.openstreetmap.org/?mlat=37.54764&mlon=44.13691#map=17/37.54764/44.13691"
+        },
+        "UN_M49": {
+          "regions": {
+            "ASIA": "142",
+            "TR": "792",
+            "WESTERN_ASIA": "145",
+            "WORLD": "001"
+          },
+          "statistical_groupings": [
+            "LEDC"
+          ]
+        },
+        "callingcode": 90,
+        "currency": {
+          "alternate_symbols": [
+            "TL"
+          ],
+          "decimal_mark": ",",
+          "html_entity": "&#8378;",
+          "iso_code": "TRY",
+          "iso_numeric": "949",
+          "name": "Turkish Lira",
+          "smallest_denomination": 1,
+          "subunit": "kuru\u015f",
+          "subunit_to_unit": 100,
+          "symbol": "\u20ba",
+          "symbol_first": 1,
+          "thousands_separator": "."
+        },
+        "flag": "\ud83c\uddf9\ud83c\uddf7",
+        "geohash": "syxms77dbdfg5g2mdgzz",
+        "qibla": 194.22,
+        "roadinfo": {
+          "drive_on": "right",
+          "speed_in": "km/h"
+        },
+        "sun": {
+          "rise": {
+            "apparent": 1610425140,
+            "astronomical": 1610419560,
+            "civil": 1610423400,
+            "nautical": 1610421480
+          },
+          "set": {
+            "apparent": 1610460300,
+            "astronomical": 1610465820,
+            "civil": 1610462040,
+            "nautical": 1610463960
+          }
+        },
+        "timezone": {
+          "name": "Europe/Istanbul",
+          "now_in_dst": 0,
+          "offset_sec": 10800,
+          "offset_string": "+0300",
+          "short_name": "+03"
+        },
+        "what3words": {
+          "words": "rosebuds.falsify.rectangle"
+        },
+        "wikidata": "Q985881"
+      },
+      "bounds": {
+        "northeast": {
+          "lat": 37.567637,
+          "lng": 44.1569119
+        },
+        "southwest": {
+          "lat": 37.527637,
+          "lng": 44.1169119
+        }
+      },
+      "components": {
+        "ISO_3166-1_alpha-2": "TR",
+        "ISO_3166-1_alpha-3": "TUR",
+        "_category": "place",
+        "_type": "village",
+        "continent": "Asia",
+        "country": "Turkey",
+        "country_code": "tr",
+        "province": "Hakk\u00e2ri",
+        "region": "Eastern Anatolia Region",
+        "state": "Hakk\u00e2ri",
+        "town": "Y\u00fcksekova",
+        "village": "Kad\u0131k\u00f6y"
+      },
+      "confidence": 7,
+      "formatted": "Y\u00fcksekova, Hakk\u00e2ri, Turkey",
+      "geometry": {
+        "lat": 37.547637,
+        "lng": 44.1369119
+      }
+    },
+    {
+      "annotations": {
+        "DMS": {
+          "lat": "39\u00b0 17' 54.08844'' N",
+          "lng": "42\u00b0 21' 4.57560'' E"
+        },
+        "MGRS": "38SKJ7159253231",
+        "Maidenhead": "LM19eh21do",
+        "Mercator": {
+          "x": 4714521.922,
+          "y": 4737432.149
+        },
+        "OSM": {
+          "edit_url": "https://www.openstreetmap.org/edit?node=2283852338#map=17/39.29836/42.35127",
+          "note_url": "https://www.openstreetmap.org/note/new#map=17/39.29836/42.35127&layers=N",
+          "url": "https://www.openstreetmap.org/?mlat=39.29836&mlon=42.35127#map=17/39.29836/42.35127"
+        },
+        "UN_M49": {
+          "regions": {
+            "ASIA": "142",
+            "TR": "792",
+            "WESTERN_ASIA": "145",
+            "WORLD": "001"
+          },
+          "statistical_groupings": [
+            "LEDC"
+          ]
+        },
+        "callingcode": 90,
+        "currency": {
+          "alternate_symbols": [
+            "TL"
+          ],
+          "decimal_mark": ",",
+          "html_entity": "&#8378;",
+          "iso_code": "TRY",
+          "iso_numeric": "949",
+          "name": "Turkish Lira",
+          "smallest_denomination": 1,
+          "subunit": "kuru\u015f",
+          "subunit_to_unit": 100,
+          "symbol": "\u20ba",
+          "symbol_first": 1,
+          "thousands_separator": "."
+        },
+        "flag": "\ud83c\uddf9\ud83c\uddf7",
+        "geohash": "syypedp380us060dygnj",
+        "qibla": 187.62,
+        "roadinfo": {
+          "drive_on": "right",
+          "speed_in": "km/h"
+        },
+        "sun": {
+          "rise": {
+            "apparent": 1610425800,
+            "astronomical": 1610420160,
+            "civil": 1610424060,
+            "nautical": 1610422080
+          },
+          "set": {
+            "apparent": 1610460480,
+            "astronomical": 1610466120,
+            "civil": 1610462220,
+            "nautical": 1610464200
+          }
+        },
+        "timezone": {
+          "name": "Europe/Istanbul",
+          "now_in_dst": 0,
+          "offset_sec": 10800,
+          "offset_string": "+0300",
+          "short_name": "+03"
+        },
+        "what3words": {
+          "words": "bends.habituated.berate"
+        },
+        "wikidata": "Q10774983"
+      },
+      "bounds": {
+        "northeast": {
+          "lat": 39.3183579,
+          "lng": 42.371271
+        },
+        "southwest": {
+          "lat": 39.2783579,
+          "lng": 42.331271
+        }
+      },
+      "components": {
+        "ISO_3166-1_alpha-2": "TR",
+        "ISO_3166-1_alpha-3": "TUR",
+        "_category": "place",
+        "_type": "village",
+        "continent": "Asia",
+        "country": "Turkey",
+        "country_code": "tr",
+        "province": "Mu\u015f",
+        "region": "Eastern Anatolia Region",
+        "state": "Mu\u015f",
+        "town": "Malazgirt",
+        "village": "Kad\u0131k\u00f6y"
+      },
+      "confidence": 7,
+      "formatted": "Malazgirt, Mu\u015f, Turkey",
+      "geometry": {
+        "lat": 39.2983579,
+        "lng": 42.351271
+      }
+    },
+    {
+      "annotations": {
+        "DMS": {
+          "lat": "40\u00b0 14' 46.73400'' N",
+          "lng": "31\u00b0 14' 27.58920'' E"
+        },
+        "MGRS": "36TUK5038856580",
+        "Maidenhead": "KN50of89wc",
+        "Mercator": {
+          "x": 3477731.878,
+          "y": 4874189.298
+        },
+        "OSM": {
+          "edit_url": "https://www.openstreetmap.org/edit?node=2442718551#map=17/40.24632/31.24100",
+          "note_url": "https://www.openstreetmap.org/note/new#map=17/40.24632/31.24100&layers=N",
+          "url": "https://www.openstreetmap.org/?mlat=40.24632&mlon=31.24100#map=17/40.24632/31.24100"
+        },
+        "UN_M49": {
+          "regions": {
+            "ASIA": "142",
+            "TR": "792",
+            "WESTERN_ASIA": "145",
+            "WORLD": "001"
+          },
+          "statistical_groupings": [
+            "LEDC"
+          ]
+        },
+        "callingcode": 90,
+        "currency": {
+          "alternate_symbols": [
+            "TL"
+          ],
+          "decimal_mark": ",",
+          "html_entity": "&#8378;",
+          "iso_code": "TRY",
+          "iso_numeric": "949",
+          "name": "Turkish Lira",
+          "smallest_denomination": 1,
+          "subunit": "kuru\u015f",
+          "subunit_to_unit": 100,
+          "symbol": "\u20ba",
+          "symbol_first": 1,
+          "thousands_separator": "."
+        },
+        "flag": "\ud83c\uddf9\ud83c\uddf7",
+        "geohash": "sxnhyysgzbzu2mzbhy2f",
+        "qibla": 156.26,
+        "roadinfo": {
+          "drive_on": "right",
+          "speed_in": "km/h"
+        },
+        "sun": {
+          "rise": {
+            "apparent": 1610428680,
+            "astronomical": 1610422860,
+            "civil": 1610426880,
+            "nautical": 1610424840
+          },
+          "set": {
+            "apparent": 1610463000,
+            "astronomical": 1610468760,
+            "civil": 1610464740,
+            "nautical": 1610466780
+          }
+        },
+        "timezone": {
+          "name": "Europe/Istanbul",
+          "now_in_dst": 0,
+          "offset_sec": 10800,
+          "offset_string": "+0300",
+          "short_name": "+03"
+        },
+        "what3words": {
+          "words": "throwback.rallies.biologist"
+        }
+      },
+      "bounds": {
+        "northeast": {
+          "lat": 40.266315,
+          "lng": 31.260997
+        },
+        "southwest": {
+          "lat": 40.226315,
+          "lng": 31.220997
+        }
+      },
+      "components": {
+        "ISO_3166-1_alpha-2": "TR",
+        "ISO_3166-1_alpha-3": "TUR",
+        "_category": "place",
+        "_type": "village",
+        "continent": "Asia",
+        "country": "Turkey",
+        "country_code": "tr",
+        "province": "Ankara",
+        "region": "Central Anatolia Region",
+        "state": "Ankara",
+        "town": "Nall\u0131han",
+        "village": "Kad\u0131k\u00f6y"
+      },
+      "confidence": 7,
+      "formatted": "Nall\u0131han, Ankara, Turkey",
+      "geometry": {
+        "lat": 40.246315,
+        "lng": 31.240997
+      }
+    },
+    {
+      "annotations": {
+        "DMS": {
+          "lat": "37\u00b0 25' 8.19588'' N",
+          "lng": "39\u00b0 51' 42.24888'' E"
+        },
+        "MGRS": "37SEB7625141697",
+        "Maidenhead": "KM97wk30jn",
+        "Mercator": {
+          "x": 4437388.131,
+          "y": 4471697.919
+        },
+        "OSM": {
+          "edit_url": "https://www.openstreetmap.org/edit?node=1382078411#map=17/37.41894/39.86174",
+          "note_url": "https://www.openstreetmap.org/note/new#map=17/37.41894/39.86174&layers=N",
+          "url": "https://www.openstreetmap.org/?mlat=37.41894&mlon=39.86174#map=17/37.41894/39.86174"
+        },
+        "UN_M49": {
+          "regions": {
+            "ASIA": "142",
+            "TR": "792",
+            "WESTERN_ASIA": "145",
+            "WORLD": "001"
+          },
+          "statistical_groupings": [
+            "LEDC"
+          ]
+        },
+        "callingcode": 90,
+        "currency": {
+          "alternate_symbols": [
+            "TL"
+          ],
+          "decimal_mark": ",",
+          "html_entity": "&#8378;",
+          "iso_code": "TRY",
+          "iso_numeric": "949",
+          "name": "Turkish Lira",
+          "smallest_denomination": 1,
+          "subunit": "kuru\u015f",
+          "subunit_to_unit": 100,
+          "symbol": "\u20ba",
+          "symbol_first": 1,
+          "thousands_separator": "."
+        },
+        "flag": "\ud83c\uddf9\ud83c\uddf7",
+        "geohash": "syskg5fmju8e29468v2z",
+        "qibla": 180.12,
+        "roadinfo": {
+          "drive_on": "right",
+          "speed_in": "km/h"
+        },
+        "sun": {
+          "rise": {
+            "apparent": 1610426160,
+            "astronomical": 1610420580,
+            "civil": 1610424420,
+            "nautical": 1610422500
+          },
+          "set": {
+            "apparent": 1610461320,
+            "astronomical": 1610466900,
+            "civil": 1610463060,
+            "nautical": 1610464980
+          }
+        },
+        "timezone": {
+          "name": "Europe/Istanbul",
+          "now_in_dst": 0,
+          "offset_sec": 10800,
+          "offset_string": "+0300",
+          "short_name": "+03"
+        },
+        "what3words": {
+          "words": "toothpaste.milking.surprisingly"
+        }
+      },
+      "bounds": {
+        "northeast": {
+          "lat": 37.4389433,
+          "lng": 39.8817358
+        },
+        "southwest": {
+          "lat": 37.3989433,
+          "lng": 39.8417358
+        }
+      },
+      "components": {
+        "ISO_3166-1_alpha-2": "TR",
+        "ISO_3166-1_alpha-3": "TUR",
+        "_category": "place",
+        "_type": "village",
+        "continent": "Asia",
+        "country": "Turkey",
+        "country_code": "tr",
+        "province": "\u015eanl\u0131urfa",
+        "region": "Southeastern Anatolia Region",
+        "state": "\u015eanl\u0131urfa",
+        "town": "Viran\u015fehir",
+        "village": "Kad\u0131k\u00f6y"
+      },
+      "confidence": 7,
+      "formatted": "Viran\u015fehir, \u015eanl\u0131urfa, Turkey",
+      "geometry": {
+        "lat": 37.4189433,
+        "lng": 39.8617358
+      }
+    },
+    {
+      "annotations": {
+        "DMS": {
+          "lat": "41\u00b0 3' 5.68080'' N",
+          "lng": "39\u00b0 23' 42.49680'' E"
+        },
+        "MGRS": "37TEF3320544557",
+        "Maidenhead": "KN91qb72kj",
+        "Mercator": {
+          "x": 4385446.702,
+          "y": 4991884.161
+        },
+        "OSM": {
+          "edit_url": "https://www.openstreetmap.org/edit?node=2386333056#map=17/41.05158/39.39514",
+          "note_url": "https://www.openstreetmap.org/note/new#map=17/41.05158/39.39514&layers=N",
+          "url": "https://www.openstreetmap.org/?mlat=41.05158&mlon=39.39514#map=17/41.05158/39.39514"
+        },
+        "UN_M49": {
+          "regions": {
+            "ASIA": "142",
+            "TR": "792",
+            "WESTERN_ASIA": "145",
+            "WORLD": "001"
+          },
+          "statistical_groupings": [
+            "LEDC"
+          ]
+        },
+        "callingcode": 90,
+        "currency": {
+          "alternate_symbols": [
+            "TL"
+          ],
+          "decimal_mark": ",",
+          "html_entity": "&#8378;",
+          "iso_code": "TRY",
+          "iso_numeric": "949",
+          "name": "Turkish Lira",
+          "smallest_denomination": 1,
+          "subunit": "kuru\u015f",
+          "subunit_to_unit": 100,
+          "symbol": "\u20ba",
+          "symbol_first": 1,
+          "thousands_separator": "."
+        },
+        "flag": "\ud83c\uddf9\ud83c\uddf7",
+        "geohash": "szk183nwv0zcr6ssnjzn",
+        "qibla": 178.81,
+        "roadinfo": {
+          "drive_on": "right",
+          "speed_in": "km/h"
+        },
+        "sun": {
+          "rise": {
+            "apparent": 1610426820,
+            "astronomical": 1610421000,
+            "civil": 1610425020,
+            "nautical": 1610422980
+          },
+          "set": {
+            "apparent": 1610460900,
+            "astronomical": 1610466720,
+            "civil": 1610462700,
+            "nautical": 1610464740
+          }
+        },
+        "timezone": {
+          "name": "Europe/Istanbul",
+          "now_in_dst": 0,
+          "offset_sec": 10800,
+          "offset_string": "+0300",
+          "short_name": "+03"
+        },
+        "what3words": {
+          "words": "huddles.refitted.assessments"
+        }
+      },
+      "bounds": {
+        "northeast": {
+          "lat": 41.071578,
+          "lng": 39.415138
+        },
+        "southwest": {
+          "lat": 41.031578,
+          "lng": 39.375138
+        }
+      },
+      "components": {
+        "ISO_3166-1_alpha-2": "TR",
+        "ISO_3166-1_alpha-3": "TUR",
+        "_category": "place",
+        "_type": "village",
+        "continent": "Asia",
+        "country": "Turkey",
+        "country_code": "tr",
+        "county": "\u00c7ar\u015f\u0131ba\u015f\u0131",
+        "province": "Trabzon",
+        "region": "Black Sea Region",
+        "state": "Trabzon",
+        "village": "Kad\u0131k\u00f6y"
+      },
+      "confidence": 7,
+      "formatted": "Kad\u0131k\u00f6y, \u00c7ar\u015f\u0131ba\u015f\u0131, Turkey",
+      "geometry": {
+        "lat": 41.051578,
+        "lng": 39.395138
+      }
+    },
+    {
+      "annotations": {
+        "DMS": {
+          "lat": "36\u00b0 45' 51.19560'' N",
+          "lng": "35\u00b0 15' 39.20760'' E"
+        },
+        "MGRS": "36SYF0179971100",
+        "Maidenhead": "KM76ps13hj",
+        "Mercator": {
+          "x": 3925224.431,
+          "y": 4380716.977
+        },
+        "OSM": {
+          "edit_url": "https://www.openstreetmap.org/edit?node=1985700453#map=17/36.76422/35.26089",
+          "note_url": "https://www.openstreetmap.org/note/new#map=17/36.76422/35.26089&layers=N",
+          "url": "https://www.openstreetmap.org/?mlat=36.76422&mlon=35.26089#map=17/36.76422/35.26089"
+        },
+        "UN_M49": {
+          "regions": {
+            "ASIA": "142",
+            "TR": "792",
+            "WESTERN_ASIA": "145",
+            "WORLD": "001"
+          },
+          "statistical_groupings": [
+            "LEDC"
+          ]
+        },
+        "callingcode": 90,
+        "currency": {
+          "alternate_symbols": [
+            "TL"
+          ],
+          "decimal_mark": ",",
+          "html_entity": "&#8378;",
+          "iso_code": "TRY",
+          "iso_numeric": "949",
+          "name": "Turkish Lira",
+          "smallest_denomination": 1,
+          "subunit": "kuru\u015f",
+          "subunit_to_unit": 100,
+          "symbol": "\u20ba",
+          "symbol_first": 1,
+          "thousands_separator": "."
+        },
+        "flag": "\ud83c\uddf9\ud83c\uddf7",
+        "geohash": "sy914kspn79bxs2e2039",
+        "qibla": 164.25,
+        "roadinfo": {
+          "drive_on": "right",
+          "speed_in": "km/h"
+        },
+        "sun": {
+          "rise": {
+            "apparent": 1610427120,
+            "astronomical": 1610421660,
+            "civil": 1610425440,
+            "nautical": 1610423520
+          },
+          "set": {
+            "apparent": 1610462580,
+            "astronomical": 1610468040,
+            "civil": 1610464260,
+            "nautical": 1610466180
+          }
+        },
+        "timezone": {
+          "name": "Europe/Istanbul",
+          "now_in_dst": 0,
+          "offset_sec": 10800,
+          "offset_string": "+0300",
+          "short_name": "+03"
+        },
+        "what3words": {
+          "words": "quiver.godparent.august"
+        }
+      },
+      "bounds": {
+        "northeast": {
+          "lat": 36.784221,
+          "lng": 35.280891
+        },
+        "southwest": {
+          "lat": 36.744221,
+          "lng": 35.240891
+        }
+      },
+      "components": {
+        "ISO_3166-1_alpha-2": "TR",
+        "ISO_3166-1_alpha-3": "TUR",
+        "_category": "place",
+        "_type": "village",
+        "continent": "Asia",
+        "country": "Turkey",
+        "country_code": "tr",
+        "county": "Y\u00fcre\u011fir",
+        "province": "Adana",
+        "region": "Mediterranean Region",
+        "state": "Adana",
+        "village": "Kad\u0131k\u00f6y"
+      },
+      "confidence": 7,
+      "formatted": "Kad\u0131k\u00f6y, Y\u00fcre\u011fir, Turkey",
+      "geometry": {
+        "lat": 36.764221,
+        "lng": 35.260891
+      }
+    },
+    {
+      "annotations": {
+        "DMS": {
+          "lat": "39\u00b0 45' 2.26008'' N",
+          "lng": "36\u00b0 19' 14.68128'' E"
+        },
+        "MGRS": "37SBE7045403513",
+        "Maidenhead": "KM89ds80ld",
+        "Mercator": {
+          "x": 4043206.816,
+          "y": 4802442.219
+        },
+        "OSM": {
+          "edit_url": "https://www.openstreetmap.org/edit?node=2709024827#map=17/39.75063/36.32074",
+          "note_url": "https://www.openstreetmap.org/note/new#map=17/39.75063/36.32074&layers=N",
+          "url": "https://www.openstreetmap.org/?mlat=39.75063&mlon=36.32074#map=17/39.75063/36.32074"
+        },
+        "UN_M49": {
+          "regions": {
+            "ASIA": "142",
+            "TR": "792",
+            "WESTERN_ASIA": "145",
+            "WORLD": "001"
+          },
+          "statistical_groupings": [
+            "LEDC"
+          ]
+        },
+        "callingcode": 90,
+        "currency": {
+          "alternate_symbols": [
+            "TL"
+          ],
+          "decimal_mark": ",",
+          "html_entity": "&#8378;",
+          "iso_code": "TRY",
+          "iso_numeric": "949",
+          "name": "Turkish Lira",
+          "smallest_denomination": 1,
+          "subunit": "kuru\u015f",
+          "subunit_to_unit": 100,
+          "symbol": "\u20ba",
+          "symbol_first": 1,
+          "thousands_separator": "."
+        },
+        "flag": "\ud83c\uddf9\ud83c\uddf7",
+        "geohash": "sz1f4krunwn705rsbbpv",
+        "qibla": 169.7,
+        "roadinfo": {
+          "drive_on": "right",
+          "speed_in": "km/h"
+        },
+        "sun": {
+          "rise": {
+            "apparent": 1610427360,
+            "astronomical": 1610421600,
+            "civil": 1610425560,
+            "nautical": 1610423580
+          },
+          "set": {
+            "apparent": 1610461860,
+            "astronomical": 1610467560,
+            "civil": 1610463600,
+            "nautical": 1610465640
+          }
+        },
+        "timezone": {
+          "name": "Europe/Istanbul",
+          "now_in_dst": 0,
+          "offset_sec": 10800,
+          "offset_string": "+0300",
+          "short_name": "+03"
+        },
+        "what3words": {
+          "words": "bucking.backwards.certain"
+        }
+      },
+      "bounds": {
+        "northeast": {
+          "lat": 39.7706278,
+          "lng": 36.3407448
+        },
+        "southwest": {
+          "lat": 39.7306278,
+          "lng": 36.3007448
+        }
+      },
+      "components": {
+        "ISO_3166-1_alpha-2": "TR",
+        "ISO_3166-1_alpha-3": "TUR",
+        "_category": "place",
+        "_type": "village",
+        "continent": "Asia",
+        "country": "Turkey",
+        "country_code": "tr",
+        "county": "Y\u0131ld\u0131zeli",
+        "province": "Sivas",
+        "region": "Central Anatolia Region",
+        "state": "Sivas",
+        "village": "Kad\u0131k\u00f6y"
+      },
+      "confidence": 7,
+      "formatted": "Kad\u0131k\u00f6y, Y\u0131ld\u0131zeli, Turkey",
+      "geometry": {
+        "lat": 39.7506278,
+        "lng": 36.3207448
+      }
+    },
+    {
+      "annotations": {
+        "DMS": {
+          "lat": "41\u00b0 28' 53.20380'' N",
+          "lng": "34\u00b0 9' 46.47852'' E"
+        },
+        "MGRS": "36TWL9708892856",
+        "Maidenhead": "KN71bl95nn",
+        "Mercator": {
+          "x": 3802997.823,
+          "y": 5055306.52
+        },
+        "OSM": {
+          "edit_url": "https://www.openstreetmap.org/edit?node=1152752634#map=17/41.48145/34.16291",
+          "note_url": "https://www.openstreetmap.org/note/new#map=17/41.48145/34.16291&layers=N",
+          "url": "https://www.openstreetmap.org/?mlat=41.48145&mlon=34.16291#map=17/41.48145/34.16291"
+        },
+        "UN_M49": {
+          "regions": {
+            "ASIA": "142",
+            "TR": "792",
+            "WESTERN_ASIA": "145",
+            "WORLD": "001"
+          },
+          "statistical_groupings": [
+            "LEDC"
+          ]
+        },
+        "callingcode": 90,
+        "currency": {
+          "alternate_symbols": [
+            "TL"
+          ],
+          "decimal_mark": ",",
+          "html_entity": "&#8378;",
+          "iso_code": "TRY",
+          "iso_numeric": "949",
+          "name": "Turkish Lira",
+          "smallest_denomination": 1,
+          "subunit": "kuru\u015f",
+          "subunit_to_unit": 100,
+          "symbol": "\u20ba",
+          "symbol_first": 1,
+          "thousands_separator": "."
+        },
+        "flag": "\ud83c\uddf9\ud83c\uddf7",
+        "geohash": "sz27crkwvtbsc5622060",
+        "qibla": 164.88,
+        "roadinfo": {
+          "drive_on": "right",
+          "speed_in": "km/h"
+        },
+        "sun": {
+          "rise": {
+            "apparent": 1610428140,
+            "astronomical": 1610422260,
+            "civil": 1610426340,
+            "nautical": 1610424240
+          },
+          "set": {
+            "apparent": 1610462040,
+            "astronomical": 1610467920,
+            "civil": 1610463900,
+            "nautical": 1610465940
+          }
+        },
+        "timezone": {
+          "name": "Europe/Istanbul",
+          "now_in_dst": 0,
+          "offset_sec": 10800,
+          "offset_string": "+0300",
+          "short_name": "+03"
+        },
+        "what3words": {
+          "words": "fetched.nattering.spurs"
+        }
+      },
+      "bounds": {
+        "northeast": {
+          "lat": 41.5014455,
+          "lng": 34.1829107
+        },
+        "southwest": {
+          "lat": 41.4614455,
+          "lng": 34.1429107
+        }
+      },
+      "components": {
+        "ISO_3166-1_alpha-2": "TR",
+        "ISO_3166-1_alpha-3": "TUR",
+        "_category": "place",
+        "_type": "village",
+        "continent": "Asia",
+        "country": "Turkey",
+        "country_code": "tr",
+        "county": "Ta\u015fk\u00f6pr\u00fc",
+        "province": "Kastamonu",
+        "region": "Black Sea Region",
+        "state": "Kastamonu",
+        "village": "Kad\u0131k\u00f6y"
+      },
+      "confidence": 7,
+      "formatted": "Kad\u0131k\u00f6y, Ta\u015fk\u00f6pr\u00fc, Turkey",
+      "geometry": {
+        "lat": 41.4814455,
+        "lng": 34.1629107
+      }
+    },
+    {
+      "annotations": {
+        "DMS": {
+          "lat": "36\u00b0 40' 41.47176'' N",
+          "lng": "33\u00b0 22' 1.42932'' E"
+        },
+        "MGRS": "36SWF3279759236",
+        "Maidenhead": "KM66qq42bs",
+        "Mercator": {
+          "x": 3714404.54,
+          "y": 4368820.073
+        },
+        "OSM": {
+          "edit_url": "https://www.openstreetmap.org/edit?node=1295234677#map=17/36.67819/33.36706",
+          "note_url": "https://www.openstreetmap.org/note/new#map=17/36.67819/33.36706&layers=N",
+          "url": "https://www.openstreetmap.org/?mlat=36.67819&mlon=33.36706#map=17/36.67819/33.36706"
+        },
+        "UN_M49": {
+          "regions": {
+            "ASIA": "142",
+            "TR": "792",
+            "WESTERN_ASIA": "145",
+            "WORLD": "001"
+          },
+          "statistical_groupings": [
+            "LEDC"
+          ]
+        },
+        "callingcode": 90,
+        "currency": {
+          "alternate_symbols": [
+            "TL"
+          ],
+          "decimal_mark": ",",
+          "html_entity": "&#8378;",
+          "iso_code": "TRY",
+          "iso_numeric": "949",
+          "name": "Turkish Lira",
+          "smallest_denomination": 1,
+          "subunit": "kuru\u015f",
+          "subunit_to_unit": 100,
+          "symbol": "\u20ba",
+          "symbol_first": 1,
+          "thousands_separator": "."
+        },
+        "flag": "\ud83c\uddf9\ud83c\uddf7",
+        "geohash": "swx8xm11uvtcryrh5ydx",
+        "qibla": 158.03,
+        "roadinfo": {
+          "drive_on": "right",
+          "speed_in": "km/h"
+        },
+        "sun": {
+          "rise": {
+            "apparent": 1610427600,
+            "astronomical": 1610422080,
+            "civil": 1610425860,
+            "nautical": 1610424000
+          },
+          "set": {
+            "apparent": 1610463000,
+            "astronomical": 1610468520,
+            "civil": 1610464740,
+            "nautical": 1610466600
+          }
+        },
+        "timezone": {
+          "name": "Europe/Istanbul",
+          "now_in_dst": 0,
+          "offset_sec": 10800,
+          "offset_string": "+0300",
+          "short_name": "+03"
+        },
+        "what3words": {
+          "words": "cradles.habitable.calibrated"
+        }
+      },
+      "bounds": {
+        "northeast": {
+          "lat": 36.6981866,
+          "lng": 33.3870637
+        },
+        "southwest": {
+          "lat": 36.6581866,
+          "lng": 33.3470637
+        }
+      },
+      "components": {
+        "ISO_3166-1_alpha-2": "TR",
+        "ISO_3166-1_alpha-3": "TUR",
+        "_category": "place",
+        "_type": "village",
+        "continent": "Asia",
+        "country": "Turkey",
+        "country_code": "tr",
+        "county": "Mut",
+        "province": "Mersin",
+        "region": "Mediterranean Region",
+        "state": "Mersin",
+        "village": "Kad\u0131k\u00f6y"
+      },
+      "confidence": 7,
+      "formatted": "Kad\u0131k\u00f6y, Mut, Turkey",
+      "geometry": {
+        "lat": 36.6781866,
+        "lng": 33.3670637
+      }
+    }
+  ],
+  "status": {
+    "code": 200,
+    "message": "OK"
+  },
+  "stay_informed": {
+    "blog": "https://blog.opencagedata.com",
+    "twitter": "https://twitter.com/OpenCage"
+  },
+  "thanks": "For using an OpenCage API",
+  "timestamp": {
+    "created_http": "Tue, 12 Jan 2021 10:28:09 GMT",
+    "created_unix": 1610447289
+  },
+  "total_results": 10
+}

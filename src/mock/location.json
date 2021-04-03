@@ -1,0 +1,295 @@
+{
+  "lat": 41.0351,
+  "lon": 28.9833,
+  "timezone": "Europe/Istanbul",
+  "timezone_offset": 10800,
+  "daily": [
+    {
+      "dt": 1610532000,
+      "sunrise": 1610515652,
+      "sunset": 1610549853,
+      "temp": {
+        "day": 7.91,
+        "min": 6.45,
+        "max": 10.2,
+        "night": 6.45,
+        "eve": 7.49,
+        "morn": 9.01
+      },
+      "feels_like": {
+        "day": 3.52,
+        "night": 2.53,
+        "eve": 4.01,
+        "morn": 5.14
+      },
+      "pressure": 1007,
+      "humidity": 81,
+      "dew_point": 4.97,
+      "wind_speed": 4.62,
+      "wind_deg": 357,
+      "weather": [
+        {
+          "id": 502,
+          "main": "Rain",
+          "description": "heavy intensity rain",
+          "icon": "10d"
+        }
+      ],
+      "clouds": 100,
+      "pop": 1,
+      "rain": 20.09,
+      "uvi": 1.16
+    },
+    {
+      "dt": 1610618400,
+      "sunrise": 1610602030,
+      "sunset": 1610636319,
+      "temp": {
+        "day": 5.34,
+        "min": 4.25,
+        "max": 6.71,
+        "night": 4.3,
+        "eve": 4.54,
+        "morn": 4.56
+      },
+      "feels_like": {
+        "day": 0.76,
+        "night": 1.67,
+        "eve": 0.36,
+        "morn": -0.65
+      },
+      "pressure": 1010,
+      "humidity": 65,
+      "dew_point": -2.41,
+      "wind_speed": 3.56,
+      "wind_deg": 343,
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "light rain",
+          "icon": "10d"
+        }
+      ],
+      "clouds": 97,
+      "pop": 0.65,
+      "rain": 1.15,
+      "uvi": 1.01
+    },
+    {
+      "dt": 1610704800,
+      "sunrise": 1610688406,
+      "sunset": 1610722786,
+      "temp": {
+        "day": 3.1,
+        "min": 2.21,
+        "max": 4.28,
+        "night": 3.84,
+        "eve": 3.85,
+        "morn": 3.87
+      },
+      "feels_like": {
+        "day": -3.03,
+        "night": 0.44,
+        "eve": -1.45,
+        "morn": -0.82
+      },
+      "pressure": 1013,
+      "humidity": 79,
+      "dew_point": -0.2,
+      "wind_speed": 5.88,
+      "wind_deg": 355,
+      "weather": [
+        {
+          "id": 601,
+          "main": "Snow",
+          "description": "snow",
+          "icon": "13d"
+        }
+      ],
+      "clouds": 100,
+      "pop": 0.85,
+      "snow": 2.49,
+      "uvi": 1.43
+    },
+    {
+      "dt": 1610791200,
+      "sunrise": 1610774780,
+      "sunset": 1610809254,
+      "temp": {
+        "day": 3.95,
+        "min": 2.4,
+        "max": 3.95,
+        "night": 2.6,
+        "eve": 2.98,
+        "morn": 2.47
+      },
+      "feels_like": {
+        "day": 0.23,
+        "night": -2.87,
+        "eve": -2.5,
+        "morn": -1.74
+      },
+      "pressure": 1017,
+      "humidity": 68,
+      "dew_point": -4.99,
+      "wind_speed": 2.19,
+      "wind_deg": 27,
+      "weather": [
+        {
+          "id": 600,
+          "main": "Snow",
+          "description": "light snow",
+          "icon": "13d"
+        }
+      ],
+      "clouds": 100,
+      "pop": 0.2,
+      "snow": 0.12,
+      "uvi": 1.43
+    },
+    {
+      "dt": 1610877600,
+      "sunrise": 1610861152,
+      "sunset": 1610895723,
+      "temp": {
+        "day": 1.05,
+        "min": -0.33,
+        "max": 2.3,
+        "night": -0.33,
+        "eve": 0.35,
+        "morn": 1.11
+      },
+      "feels_like": {
+        "day": -6.4,
+        "night": -8.06,
+        "eve": -7.43,
+        "morn": -2.69
+      },
+      "pressure": 1018,
+      "humidity": 91,
+      "dew_point": -0.77,
+      "wind_speed": 7.76,
+      "wind_deg": 20,
+      "weather": [
+        {
+          "id": 601,
+          "main": "Snow",
+          "description": "snow",
+          "icon": "13d"
+        }
+      ],
+      "clouds": 100,
+      "pop": 1,
+      "snow": 7.68,
+      "uvi": 0.92
+    },
+    {
+      "dt": 1610964000,
+      "sunrise": 1610947521,
+      "sunset": 1610982193,
+      "temp": {
+        "day": -1.3,
+        "min": -2.44,
+        "max": -0.52,
+        "night": -2.44,
+        "eve": -2.22,
+        "morn": -2.11
+      },
+      "feels_like": {
+        "day": -7.15,
+        "night": -7.39,
+        "eve": -8.19,
+        "morn": -8.07
+      },
+      "pressure": 1027,
+      "humidity": 93,
+      "dew_point": -4.96,
+      "wind_speed": 5.07,
+      "wind_deg": 358,
+      "weather": [
+        {
+          "id": 600,
+          "main": "Snow",
+          "description": "light snow",
+          "icon": "13d"
+        }
+      ],
+      "clouds": 90,
+      "pop": 0.87,
+      "snow": 1.33,
+      "uvi": 1
+    },
+    {
+      "dt": 1611050400,
+      "sunrise": 1611033889,
+      "sunset": 1611068663,
+      "temp": {
+        "day": -1.04,
+        "min": -2.88,
+        "max": -0.41,
+        "night": -1.08,
+        "eve": -0.79,
+        "morn": -2.84
+      },
+      "feels_like": {
+        "day": -3.82,
+        "night": -4.15,
+        "eve": -3.85,
+        "morn": -6.37
+      },
+      "pressure": 1032,
+      "humidity": 94,
+      "dew_point": -3.92,
+      "wind_speed": 0.77,
+      "wind_deg": 349,
+      "weather": [
+        {
+          "id": 600,
+          "main": "Snow",
+          "description": "light snow",
+          "icon": "13d"
+        }
+      ],
+      "clouds": 98,
+      "pop": 0.36,
+      "snow": 0.87,
+      "uvi": 1
+    },
+    {
+      "dt": 1611136800,
+      "sunrise": 1611120254,
+      "sunset": 1611155134,
+      "temp": {
+        "day": 1,
+        "min": -1.26,
+        "max": 2.1,
+        "night": 2.08,
+        "eve": 1.67,
+        "morn": -1.01
+      },
+      "feels_like": {
+        "day": -3.26,
+        "night": -2.3,
+        "eve": -2.43,
+        "morn": -4.49
+      },
+      "pressure": 1032,
+      "humidity": 83,
+      "dew_point": -5.89,
+      "wind_speed": 2.94,
+      "wind_deg": 160,
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "clear sky",
+          "icon": "01d"
+        }
+      ],
+      "clouds": 0,
+      "pop": 0.04,
+      "uvi": 1
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+.list-item{
+  list-style-type: none;
+  font-size: 14px;
+  height:30px;
+}
+
+.list-item:hover{
+  color:red;
+}
+

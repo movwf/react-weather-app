@@ -1,0 +1,19 @@
+.today-info {
+	padding: 15px;
+	margin: 0 25px 25px 25px;
+/* 	box-shadow: 0 0 50px -5px rgba(0, 0, 0, 0.25); */
+	border-radius: 10px;
+}
+
+.today-info>div:not(:last-child) {
+	margin: 0 0 10px 0;
+}
+
+.today-info>div .title {
+	float: left;
+	font-weight: 700;
+}
+
+.today-info>div .value {
+	float: right;
+}

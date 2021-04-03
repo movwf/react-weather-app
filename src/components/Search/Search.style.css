@@ -1,0 +1,92 @@
+.overlay {
+  height: 100%;
+  width: 100%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: rgb(0,0,0);
+  background-color: rgba(0,0,0, 0.9); /* Black with a little bit see-through */
+}
+
+/* The content */
+.overlay-content {
+  /* position: absolute; */
+  width: 100%;
+  height: 55px;
+  text-align: center;
+}
+
+.closeDiv{
+  width: 100%;
+  height: 10%;
+}
+
+.search-container{
+  position: relative;
+  margin: auto;
+  width: 90%;
+  height: 80%;
+}
+
+.search-and-results{
+  width: 100%;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+/* Close button */
+.closebtn {
+  /* position: absolute; */
+  float:right;
+  top: 20px;
+  margin-right: 45px;
+  font-size: 48px;  
+  cursor: pointer;
+  color: white;
+}
+
+.closebtn:hover {
+  color: #ccc;
+}
+
+/* Style the search field */
+.overlay input[type=text] {
+  height:100%;
+  width: 50%;
+  margin-left: 25%;
+  font-size: 17px;
+  border: none;
+  background: white;
+}
+
+.overlay input[type=text]:hover {
+  background: #f1f1f1;
+}
+
+/* Style the submit button */
+.overlay button {
+  float: left;
+  width: 15%;
+  margin-left:5%;
+  padding: 15px;
+  background: #ddd;
+  border-radius: 40px;
+  font-size: 17px;
+  border: none;
+  cursor: pointer;
+}
+
+.overlay button:hover {
+  background: #bbb;
+}
+
+.searchBox{
+  border: 2px solid lightgrey;
+  background-color: transparent;
+  border-radius: 40px;
+  display: flex;
+  text-align: center;
+  overflow: hidden;
+}
